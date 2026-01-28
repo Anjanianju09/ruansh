@@ -1,0 +1,13 @@
+
+
+
+[A[A[A[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1s
+[A[C[C[C[Ccp sampleTextFile1.txt sampleTextFile2.txt
+
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D/
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[
+$ 1s
+[A[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[B[B[
+[A$ [A[A[B[Bcat > sampleTextFile1.txt
+This is a sample text file, text is ok
+
